@@ -1,6 +1,4 @@
 import {useNavigate, useSearchParams} from "react-router-dom";
-import AddTasks from "../components/AddTasks.jsx";
-import Tasks from "../components/Tasks.jsx";
 import {ChevronLeftIcon} from "lucide-react";
 
 
